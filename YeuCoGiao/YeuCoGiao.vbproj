@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3D0F2C92-2389-4DAF-9CDC-015BC157BA64}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>YeuCoGiao.My.MyApplication</StartupObject>
+    <RootNamespace>YeuCoGiao</RootNamespace>
+    <AssemblyName>YeuCoGiao</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>YeuCoGiao.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>YeuCoGiao.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Cham cong\frmChamcong.Designer.vb">
+      <DependentUpon>frmChamcong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cham cong\frmChamcong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cham cong\frmTaoThangChamcong.Designer.vb">
+      <DependentUpon>frmTaoThangChamcong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cham cong\frmTaoThangChamcong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="He thong\frmDangKySD.Designer.vb">
+      <DependentUpon>frmDangKySD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="He thong\frmDangKySD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="He thong\frmDangKyTaiKhoan.Designer.vb">
+      <DependentUpon>frmDangKyTaiKhoan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="He thong\frmDangKyTaiKhoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="He thong\frmDoiMatkhau.Designer.vb">
+      <DependentUpon>frmDoiMatkhau.vb</DependentUpon>
+    </Compile>
+    <Compile Include="He thong\frmDoiMatkhau.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="He thong\frmKetNoi.Designer.vb">
+      <DependentUpon>frmKetNoi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="He thong\frmKetNoi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="He thong\Mod\ClsIniFile.vb" />
+    <Compile Include="He thong\frmDangNhap.Designer.vb">
+      <DependentUpon>frmDangNhap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="He thong\frmDangNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.vb">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="He thong\Mod\ModMsgBox.vb" />
+    <Compile Include="He thong\Mod\ModSystem.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="FrmMainNew.Designer.vb">
+      <DependentUpon>FrmMainNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL Hoc Sinh\frmDSHocsinh.Designer.vb">
+      <DependentUpon>frmDSHocsinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QL Hoc Sinh\frmDSHocsinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL Hoc Sinh\frmDSLop.Designer.vb">
+      <DependentUpon>frmDSLop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QL Hoc Sinh\frmDSLop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QL Hoc Sinh\frmThemHS.Designer.vb">
+      <DependentUpon>frmThemHS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QL Hoc Sinh\frmThemHS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thu chi\frmHoaDon.Designer.vb">
+      <DependentUpon>frmHoaDon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Thu chi\frmHoaDon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thu chi\frmKhoanthu.Designer.vb">
+      <DependentUpon>frmKhoanthu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Thu chi\frmKhoanthu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thu chi\frmNopHocPhi.Designer.vb">
+      <DependentUpon>frmNopHocPhi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Thu chi\frmNopHocPhi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thu chi\frmThuTien.Designer.vb">
+      <DependentUpon>frmThuTien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Thu chi\frmThuTien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Cham cong\frmChamcong.resx">
+      <DependentUpon>frmChamcong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cham cong\frmTaoThangChamcong.resx">
+      <DependentUpon>frmTaoThangChamcong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="He thong\frmDangKySD.resx">
+      <DependentUpon>frmDangKySD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="He thong\frmDangKyTaiKhoan.resx">
+      <DependentUpon>frmDangKyTaiKhoan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="He thong\frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="He thong\frmDoiMatkhau.resx">
+      <DependentUpon>frmDoiMatkhau.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="He thong\frmKetNoi.resx">
+      <DependentUpon>frmKetNoi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainNew.resx">
+      <DependentUpon>FrmMainNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL Hoc Sinh\frmDSLop.resx">
+      <DependentUpon>frmDSLop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QL Hoc Sinh\frmThemHS.resx">
+      <DependentUpon>frmThemHS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thu chi\frmHoaDon.resx">
+      <DependentUpon>frmHoaDon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thu chi\frmKhoanthu.resx">
+      <DependentUpon>frmKhoanthu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thu chi\frmNopHocPhi.resx">
+      <DependentUpon>frmNopHocPhi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thu chi\frmThuTien.resx">
+      <DependentUpon>frmThuTien.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_body.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\system_config_rootpassword.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SuaCSDL.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

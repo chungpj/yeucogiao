@@ -1,0 +1,3 @@
+Thêm Diachi, Ngaydangky
+S?a ki?u: Sdtcha, Sdtme thành nvarchar(20)
+c?a b?ng hocsinh

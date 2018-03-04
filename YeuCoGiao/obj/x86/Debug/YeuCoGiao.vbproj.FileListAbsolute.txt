@@ -1,0 +1,165 @@
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\bin\Debug\YeuCoGiao.exe
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\bin\Debug\YeuCoGiao.pdb
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\bin\Debug\YeuCoGiao.xml
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\obj\x86\Debug\YeuCoGiao.FrmMain.resources
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\obj\x86\Debug\YeuCoGiao.Resources.resources
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\obj\x86\Debug\YeuCoGiao.vbproj.GenerateResource.Cache
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\obj\x86\Debug\YeuCoGiao.exe.licenses
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\obj\x86\Debug\YeuCoGiao.exe
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\obj\x86\Debug\YeuCoGiao.xml
+C:\Users\Chung Lady\AppData\Local\Temporary Projects\YeuCoGiao\obj\x86\Debug\YeuCoGiao.pdb
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\bin\Debug\YeuCoGiao.exe
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\bin\Debug\YeuCoGiao.pdb
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\bin\Debug\YeuCoGiao.xml
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.vbproj.ResolveComReference.cache
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmChamcong.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.FrmMain.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDangKySD.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDangKyTaiKhoan.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDangNhap.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDoiMatkhau.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmKetNoi.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.Resources.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.FrmMainNew.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmThemHS.resources
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.vbproj.GenerateResource.Cache
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.exe.licenses
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.exe
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.xml
+C:\Users\Chung Lady\Documents\Visual Studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.pdb
+C:\Users\Chung Lady\documents\visual studio 2010\Projects\YeuCoGiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmTaoThangChamcong.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.vbproj.ResolveComReference.cache
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.exe
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.xml
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.pdb
+E:\AC\yeucogiao\YeuCoGiao\bin\Debug\YeuCoGiao.exe
+E:\AC\yeucogiao\YeuCoGiao\bin\Debug\YeuCoGiao.pdb
+E:\AC\yeucogiao\YeuCoGiao\bin\Debug\YeuCoGiao.xml
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmChamcong.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmTaoThangChamcong.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.FrmMain.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDangKySD.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDangKyTaiKhoan.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDangNhap.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDoiMatkhau.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmKetNoi.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.Resources.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.FrmMainNew.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDSLop.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmThemHS.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmHoaDon.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmKhoanthu.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmNopHocPhi.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmThuTien.resources
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\AC\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.exe.licenses
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\YeuCoGiao.exe
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\YeuCoGiao.pdb
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\YeuCoGiao.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Data.v15.2.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Data.v15.2.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.vbprojResolveAssemblyReference.cache
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.vbproj.ResolveComReference.cache
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmChamcong.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmTaoThangChamcong.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.FrmMain.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDangKySD.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDangKyTaiKhoan.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDangNhap.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDoiMatkhau.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmKetNoi.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.Resources.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.FrmMainNew.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmDSLop.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmThemHS.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmHoaDon.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmKhoanthu.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmNopHocPhi.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.frmThuTien.resources
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.vbproj.GenerateResource.Cache
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.exe.licenses
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.vbproj.CoreCompileInputs.cache
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.exe
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.xml
+D:\html\yeucogiao\yeucogiao\YeuCoGiao\obj\x86\Debug\YeuCoGiao.pdb

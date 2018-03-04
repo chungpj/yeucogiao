@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+YeuCoGiao
+</name>
+</assembly>
+<members>
+<member name="T:YeuCoGiao.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:YeuCoGiao.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:YeuCoGiao.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:YeuCoGiao.My.Resources.Resources.bg_body">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:YeuCoGiao.My.Resources.Resources.system_config_rootpassword">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:YeuCoGiao.ClsIniFile.WriteString(System.String,System.String,System.String)">
+ <summary>
+ Ghi nội dung ra Text File
+ </summary>
+ <param name="lpKyeName">Khoá nhận biết dữ liệu</param>
+ <param name="lpApplicationName">Khoá nhận biết chương trình</param>
+ <param name="lpFileName">Đường dẫn Text File lưu dữ liệu</param>
+ <value>Giá trị muốn lưu</value>
+ <remarks></remarks>
+</member>
+<member name="P:YeuCoGiao.ClsIniFile.ReadString(System.String,System.String,System.String,System.String)">
+ <summary>
+ Lấy nội dung từ File Text
+ </summary>
+ <param name="lpKyeName">Khoá nhận biết dữ liệu</param>
+ <param name="lpDefault">Giá trị mặc định xẽ nhận khi không có giá trị trả ra</param>
+ <param name="lpApplicationName">Khoá nhận biết chương trình</param>
+ <param name="lpFileName">Đường dẫn Text File lưu dữ liệu</param>
+ <value>Giá trị trả ra</value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
